@@ -1,0 +1,918 @@
+[
+  {
+    "message_id": 46,
+    "hand_id": 14,
+    "phase": "FLOP",
+    "game_context": {
+      "pot_size": 58,
+      "players_in_hand": [
+        0,
+        3
+      ],
+      "board_cards": [
+        {
+          "rank": 5,
+          "suit": 8,
+          "str_rank": "7",
+          "str_suit": "c",
+          "display": "7c"
+        },
+        {
+          "rank": 0,
+          "suit": 8,
+          "str_rank": "2",
+          "str_suit": "c",
+          "display": "2c"
+        },
+        {
+          "rank": 3,
+          "suit": 2,
+          "str_rank": "5",
+          "str_suit": "h",
+          "display": "5h"
+        }
+      ],
+      "betting_round": "flop"
+    }
+  },
+  {
+    "message_id": 3,
+    "hand_id": 2,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 7,
+      "players_in_hand": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 10,
+    "hand_id": 4,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 17,
+      "players_in_hand": [
+        0,
+        1,
+        2
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 44,
+    "hand_id": 14,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 7,
+      "players_in_hand": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 15,
+    "hand_id": 5,
+    "phase": "FLOP",
+    "game_context": {
+      "pot_size": 123,
+      "players_in_hand": [
+        1,
+        2
+      ],
+      "board_cards": [
+        {
+          "rank": 8,
+          "suit": 1,
+          "str_rank": "T",
+          "str_suit": "s",
+          "display": "Ts"
+        },
+        {
+          "rank": 5,
+          "suit": 2,
+          "str_rank": "7",
+          "str_suit": "h",
+          "display": "7h"
+        },
+        {
+          "rank": 12,
+          "suit": 1,
+          "str_rank": "A",
+          "str_suit": "s",
+          "display": "As"
+        }
+      ],
+      "betting_round": "flop"
+    }
+  },
+  {
+    "message_id": 17,
+    "hand_id": 6,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 17,
+      "players_in_hand": [
+        0,
+        1
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 32,
+    "hand_id": 11,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 15,
+      "players_in_hand": [
+        0,
+        1
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 39,
+    "hand_id": 13,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 17,
+      "players_in_hand": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 25,
+    "hand_id": 8,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 35,
+      "players_in_hand": [
+        0,
+        1
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 7,
+    "hand_id": 3,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 25,
+      "players_in_hand": [
+        0,
+        1,
+        3
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 13,
+    "hand_id": 5,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 17,
+      "players_in_hand": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 49,
+    "hand_id": 15,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 30,
+      "players_in_hand": [
+        0,
+        1
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 28,
+    "hand_id": 9,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 65,
+      "players_in_hand": [
+        0,
+        1,
+        2
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 36,
+    "hand_id": 12,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 73,
+      "players_in_hand": [
+        0,
+        1,
+        2
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 9,
+    "hand_id": 4,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 7,
+      "players_in_hand": [
+        0,
+        1,
+        2
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 22,
+    "hand_id": 7,
+    "phase": "FLOP",
+    "game_context": {
+      "pot_size": 125,
+      "players_in_hand": [
+        1,
+        3
+      ],
+      "board_cards": [
+        {
+          "rank": 7,
+          "suit": 2,
+          "str_rank": "9",
+          "str_suit": "h",
+          "display": "9h"
+        },
+        {
+          "rank": 8,
+          "suit": 4,
+          "str_rank": "T",
+          "str_suit": "d",
+          "display": "Td"
+        },
+        {
+          "rank": 4,
+          "suit": 2,
+          "str_rank": "6",
+          "str_suit": "h",
+          "display": "6h"
+        }
+      ],
+      "betting_round": "flop"
+    }
+  },
+  {
+    "message_id": 0,
+    "hand_id": 1,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 7,
+      "players_in_hand": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 5,
+    "hand_id": 2,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 27,
+      "players_in_hand": [
+        0,
+        1
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 40,
+    "hand_id": 13,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 52,
+      "players_in_hand": [
+        0,
+        1,
+        3
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 20,
+    "hand_id": 7,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 35,
+      "players_in_hand": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 42,
+    "hand_id": 13,
+    "phase": "TURN",
+    "game_context": {
+      "pot_size": 219,
+      "players_in_hand": [
+        1,
+        3
+      ],
+      "board_cards": [
+        {
+          "rank": 9,
+          "suit": 8,
+          "str_rank": "J",
+          "str_suit": "c",
+          "display": "Jc"
+        },
+        {
+          "rank": 1,
+          "suit": 8,
+          "str_rank": "3",
+          "str_suit": "c",
+          "display": "3c"
+        },
+        {
+          "rank": 12,
+          "suit": 2,
+          "str_rank": "A",
+          "str_suit": "h",
+          "display": "Ah"
+        },
+        {
+          "rank": 8,
+          "suit": 4,
+          "str_rank": "T",
+          "str_suit": "d",
+          "display": "Td"
+        }
+      ],
+      "betting_round": "turn"
+    }
+  },
+  {
+    "message_id": 2,
+    "hand_id": 1,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 47,
+      "players_in_hand": [
+        0,
+        1
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 23,
+    "hand_id": 8,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 7,
+      "players_in_hand": [
+        0,
+        1,
+        2
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 47,
+    "hand_id": 15,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 7,
+      "players_in_hand": [
+        0,
+        1
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 26,
+    "hand_id": 9,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 7,
+      "players_in_hand": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 34,
+    "hand_id": 12,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 7,
+      "players_in_hand": [
+        0,
+        1,
+        2
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 16,
+    "hand_id": 6,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 7,
+      "players_in_hand": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 33,
+    "hand_id": 11,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 30,
+      "players_in_hand": [
+        0,
+        1
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 24,
+    "hand_id": 8,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 17,
+      "players_in_hand": [
+        0,
+        1,
+        2
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 38,
+    "hand_id": 13,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 7,
+      "players_in_hand": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 11,
+    "hand_id": 4,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 35,
+      "players_in_hand": [
+        0,
+        1
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 45,
+    "hand_id": 14,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 15,
+      "players_in_hand": [
+        0,
+        2,
+        3
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 18,
+    "hand_id": 6,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 37,
+      "players_in_hand": [
+        0,
+        1
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 31,
+    "hand_id": 11,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 7,
+      "players_in_hand": [
+        0,
+        1
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 14,
+    "hand_id": 5,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 55,
+      "players_in_hand": [
+        0,
+        1,
+        2
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 41,
+    "hand_id": 13,
+    "phase": "FLOP",
+    "game_context": {
+      "pot_size": 52,
+      "players_in_hand": [
+        1,
+        3
+      ],
+      "board_cards": [
+        {
+          "rank": 9,
+          "suit": 8,
+          "str_rank": "J",
+          "str_suit": "c",
+          "display": "Jc"
+        },
+        {
+          "rank": 1,
+          "suit": 8,
+          "str_rank": "3",
+          "str_suit": "c",
+          "display": "3c"
+        },
+        {
+          "rank": 12,
+          "suit": 2,
+          "str_rank": "A",
+          "str_suit": "h",
+          "display": "Ah"
+        }
+      ],
+      "betting_round": "flop"
+    }
+  },
+  {
+    "message_id": 21,
+    "hand_id": 7,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 125,
+      "players_in_hand": [
+        0,
+        1,
+        3
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 30,
+    "hand_id": 10,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 15,
+      "players_in_hand": [
+        0,
+        2,
+        3
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 27,
+    "hand_id": 9,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 17,
+      "players_in_hand": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 8,
+    "hand_id": 3,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 50,
+      "players_in_hand": [
+        0,
+        1
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 35,
+    "hand_id": 12,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 17,
+      "players_in_hand": [
+        0,
+        1,
+        2
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 48,
+    "hand_id": 15,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 15,
+      "players_in_hand": [
+        0,
+        1
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 12,
+    "hand_id": 5,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 7,
+      "players_in_hand": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 29,
+    "hand_id": 9,
+    "phase": "FLOP",
+    "game_context": {
+      "pot_size": 97,
+      "players_in_hand": [
+        1,
+        2
+      ],
+      "board_cards": [
+        {
+          "rank": 0,
+          "suit": 1,
+          "str_rank": "2",
+          "str_suit": "s",
+          "display": "2s"
+        },
+        {
+          "rank": 5,
+          "suit": 1,
+          "str_rank": "7",
+          "str_suit": "s",
+          "display": "7s"
+        },
+        {
+          "rank": 1,
+          "suit": 8,
+          "str_rank": "3",
+          "str_suit": "c",
+          "display": "3c"
+        }
+      ],
+      "betting_round": "flop"
+    }
+  },
+  {
+    "message_id": 6,
+    "hand_id": 3,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 12,
+      "players_in_hand": [
+        0,
+        1,
+        3
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 37,
+    "hand_id": 12,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 73,
+      "players_in_hand": [
+        1,
+        2
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 43,
+    "hand_id": 13,
+    "phase": "RIVER",
+    "game_context": {
+      "pot_size": 507,
+      "players_in_hand": [
+        1,
+        3
+      ],
+      "board_cards": [
+        {
+          "rank": 9,
+          "suit": 8,
+          "str_rank": "J",
+          "str_suit": "c",
+          "display": "Jc"
+        },
+        {
+          "rank": 1,
+          "suit": 8,
+          "str_rank": "3",
+          "str_suit": "c",
+          "display": "3c"
+        },
+        {
+          "rank": 12,
+          "suit": 2,
+          "str_rank": "A",
+          "str_suit": "h",
+          "display": "Ah"
+        },
+        {
+          "rank": 8,
+          "suit": 4,
+          "str_rank": "T",
+          "str_suit": "d",
+          "display": "Td"
+        },
+        {
+          "rank": 11,
+          "suit": 1,
+          "str_rank": "K",
+          "str_suit": "s",
+          "display": "Ks"
+        }
+      ],
+      "betting_round": "river"
+    }
+  },
+  {
+    "message_id": 4,
+    "hand_id": 2,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 17,
+      "players_in_hand": [
+        0,
+        1
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 19,
+    "hand_id": 7,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 17,
+      "players_in_hand": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  },
+  {
+    "message_id": 1,
+    "hand_id": 1,
+    "phase": "PREFLOP",
+    "game_context": {
+      "pot_size": 17,
+      "players_in_hand": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "board_cards": [],
+      "betting_round": "preflop"
+    }
+  }
+]

@@ -1,0 +1,151 @@
+{
+  "timestamp": "2025-09-27T14:11:41.667141",
+  "hand_id": 11,
+  "phase": "PREFLOP",
+  "player_id": 1,
+  "action_type": "RAISE",
+  "amount": 20,
+  "reason": "Teammate signaled strength and suggested applying pressure, so raising to continue the squeeze play.",
+  "action_number": 63,
+  "game_state": {
+    "hand_id": 11,
+    "current_player": 1,
+    "phase": "preflop",
+    "pot_amount": 15,
+    "chips_to_call": 5,
+    "min_raise": 5,
+    "community_cards": [],
+    "players": {
+      "0": {
+        "chips": 439,
+        "state": "IN",
+        "position": "CO",
+        "hand_cards": [
+          {
+            "rank": 7,
+            "suit": 1,
+            "str_rank": "9",
+            "str_suit": "s",
+            "display": "9s"
+          },
+          {
+            "rank": 3,
+            "suit": 2,
+            "str_rank": "5",
+            "str_suit": "h",
+            "display": "5h"
+          }
+        ],
+        "is_current_player": false,
+        "is_button": false,
+        "is_small_blind": true,
+        "is_big_blind": false
+      },
+      "1": {
+        "chips": 572,
+        "state": "TO_CALL",
+        "position": "SB",
+        "hand_cards": [
+          {
+            "rank": 4,
+            "suit": 8,
+            "str_rank": "6",
+            "str_suit": "c",
+            "display": "6c"
+          },
+          {
+            "rank": 3,
+            "suit": 1,
+            "str_rank": "5",
+            "str_suit": "s",
+            "display": "5s"
+          }
+        ],
+        "is_current_player": true,
+        "is_button": false,
+        "is_small_blind": false,
+        "is_big_blind": true
+      },
+      "2": {
+        "chips": 553,
+        "state": "OUT",
+        "position": "BB",
+        "hand_cards": [
+          {
+            "rank": 11,
+            "suit": 4,
+            "str_rank": "K",
+            "str_suit": "d",
+            "display": "Kd"
+          },
+          {
+            "rank": 11,
+            "suit": 2,
+            "str_rank": "K",
+            "str_suit": "h",
+            "display": "Kh"
+          }
+        ],
+        "is_current_player": false,
+        "is_button": false,
+        "is_small_blind": false,
+        "is_big_blind": false
+      },
+      "3": {
+        "chips": 421,
+        "state": "OUT",
+        "position": "UTG",
+        "hand_cards": [
+          {
+            "rank": 6,
+            "suit": 4,
+            "str_rank": "8",
+            "str_suit": "d",
+            "display": "8d"
+          },
+          {
+            "rank": 1,
+            "suit": 1,
+            "str_rank": "3",
+            "str_suit": "s",
+            "display": "3s"
+          }
+        ],
+        "is_current_player": false,
+        "is_button": true,
+        "is_small_blind": false,
+        "is_big_blind": false
+      }
+    },
+    "betting_history": [
+      {
+        "phase": "preflop",
+        "actions": [
+          {
+            "player_id": 2,
+            "action_type": "FOLD",
+            "amount": null,
+            "position": "BB"
+          },
+          {
+            "player_id": 3,
+            "action_type": "FOLD",
+            "amount": 0,
+            "position": "UTG"
+          },
+          {
+            "player_id": 0,
+            "action_type": "RAISE",
+            "amount": 10,
+            "position": "CO"
+          }
+        ]
+      }
+    ],
+    "button_position": 3,
+    "small_blind_position": 0,
+    "big_blind_position": 1,
+    "num_players": 4,
+    "num_active_players": 2
+  }
+}

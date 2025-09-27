@@ -1,0 +1,22 @@
+{
+  "timestamp": "2025-09-27T14:11:15.134703",
+  "hand_id": 5,
+  "phase": "PREFLOP",
+  "player_id": 0,
+  "message": "I'm going to spice things up a bit more! Raising $40.",
+  "target_player": null,
+  "message_type": "public",
+  "message_length": 53,
+  "contains_signal": false,
+  "message_id": 14,
+  "game_context": {
+    "pot_size": 55,
+    "players_in_hand": [
+      0,
+      1,
+      2
+    ],
+    "board_cards": [],
+    "betting_round": "preflop"
+  }
+}

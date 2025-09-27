@@ -1,0 +1,22 @@
+{
+  "timestamp": "2025-09-27T14:11:07.801657",
+  "hand_id": 4,
+  "phase": "PREFLOP",
+  "player_id": 0,
+  "message": "Let's put a little pressure on them, shall we?",
+  "target_player": null,
+  "message_type": "public",
+  "message_length": 46,
+  "contains_signal": false,
+  "message_id": 9,
+  "game_context": {
+    "pot_size": 7,
+    "players_in_hand": [
+      0,
+      1,
+      2
+    ],
+    "board_cards": [],
+    "betting_round": "preflop"
+  }
+}

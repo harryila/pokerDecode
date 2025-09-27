@@ -1,0 +1,127 @@
+{
+  "timestamp": "2025-09-27T14:11:36.037161",
+  "hand_id": 10,
+  "phase": "PREFLOP",
+  "player_id": 1,
+  "action_type": "FOLD",
+  "amount": 0,
+  "reason": "Given the weak hand of Ks 2c and the early position, folding is the optimal play in this situation to avoid risking unnecessary chips.",
+  "action_number": 54,
+  "game_state": {
+    "hand_id": 10,
+    "current_player": 1,
+    "phase": "preflop",
+    "pot_amount": 7,
+    "chips_to_call": 5,
+    "min_raise": 5,
+    "community_cards": [],
+    "players": {
+      "0": {
+        "chips": 434,
+        "state": "IN",
+        "position": "UTG",
+        "hand_cards": [
+          {
+            "rank": 7,
+            "suit": 1,
+            "str_rank": "9",
+            "str_suit": "s",
+            "display": "9s"
+          },
+          {
+            "rank": 10,
+            "suit": 2,
+            "str_rank": "Q",
+            "str_suit": "h",
+            "display": "Qh"
+          }
+        ],
+        "is_current_player": false,
+        "is_button": false,
+        "is_small_blind": false,
+        "is_big_blind": true
+      },
+      "1": {
+        "chips": 577,
+        "state": "TO_CALL",
+        "position": "CO",
+        "hand_cards": [
+          {
+            "rank": 11,
+            "suit": 1,
+            "str_rank": "K",
+            "str_suit": "s",
+            "display": "Ks"
+          },
+          {
+            "rank": 0,
+            "suit": 8,
+            "str_rank": "2",
+            "str_suit": "c",
+            "display": "2c"
+          }
+        ],
+        "is_current_player": true,
+        "is_button": false,
+        "is_small_blind": false,
+        "is_big_blind": false
+      },
+      "2": {
+        "chips": 558,
+        "state": "TO_CALL",
+        "position": "SB",
+        "hand_cards": [
+          {
+            "rank": 12,
+            "suit": 8,
+            "str_rank": "A",
+            "str_suit": "c",
+            "display": "Ac"
+          },
+          {
+            "rank": 10,
+            "suit": 8,
+            "str_rank": "Q",
+            "str_suit": "c",
+            "display": "Qc"
+          }
+        ],
+        "is_current_player": false,
+        "is_button": true,
+        "is_small_blind": false,
+        "is_big_blind": false
+      },
+      "3": {
+        "chips": 424,
+        "state": "TO_CALL",
+        "position": "BB",
+        "hand_cards": [
+          {
+            "rank": 6,
+            "suit": 1,
+            "str_rank": "8",
+            "str_suit": "s",
+            "display": "8s"
+          },
+          {
+            "rank": 5,
+            "suit": 2,
+            "str_rank": "7",
+            "str_suit": "h",
+            "display": "7h"
+          }
+        ],
+        "is_current_player": false,
+        "is_button": false,
+        "is_small_blind": true,
+        "is_big_blind": false
+      }
+    },
+    "betting_history": [],
+    "button_position": 2,
+    "small_blind_position": 3,
+    "big_blind_position": 0,
+    "num_players": 4,
+    "num_active_players": 4
+  }
+}

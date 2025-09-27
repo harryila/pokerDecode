@@ -1,0 +1,23 @@
+{
+  "timestamp": "2025-09-27T14:11:57.505157",
+  "hand_id": 14,
+  "phase": "PREFLOP",
+  "player_id": 1,
+  "message": "I'm going to fold this one, not feeling too confident with my hand here.",
+  "target_player": null,
+  "message_type": "public",
+  "message_length": 72,
+  "contains_signal": false,
+  "message_id": 44,
+  "game_context": {
+    "pot_size": 7,
+    "players_in_hand": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "board_cards": [],
+    "betting_round": "preflop"
+  }
+}

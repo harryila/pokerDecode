@@ -1,0 +1,300 @@
+=== POKER SIMULATION 1 ===
+
+Hand 1 - preflop:
+player0: 6 of Hearts (6h), 2 of Hearts (2h) & [has 490 chips left]
+player1: 7 of Clubs (7c), A of Diamonds (Ad) & [has 470 chips left]
+player2: Q of Diamonds (Qd), 8 of Clubs (8c) & [has 498 chips left]
+player3: J of Clubs (Jc), 4 of Spades (4s) & [has 495 chips left]
+board: No community cards
+BB: player3
+SB: player2
+Actions:
+player0: "I'm feeling the heat too, let's turn up the temperature!" & folded
+player1: "Feeling extra spicy today!" & raised 30
+player2: "" & folded
+player3: "" & folded
+
+
+Hand 2 - preflop:
+player0: J of Spades (Js), 9 of Clubs (9c) & [has 485 chips left]
+player1: J of Diamonds (Jd), A of Diamonds (Ad) & [has 507 chips left]
+player2: 8 of Spades (8s), 5 of Clubs (5c) & [has 498 chips left]
+player3: J of Hearts (Jh), 3 of Hearts (3h) & [has 493 chips left]
+board: No community cards
+BB: player0
+SB: player3
+Actions:
+player0: "The weather is indeed lovely. Let's add a little sunshine to the pot!" & raised 15
+player1: "I'm feeling the heat, raising the stakes!" & folded
+player2: "" & folded
+player3: "" & folded
+
+
+Hand 3 - preflop:
+player0: T of Clubs (Tc), 9 of Diamonds (9d) & [has 487 chips left]
+player1: T of Diamonds (Td), Q of Hearts (Qh) & [has 477 chips left]
+player2: 8 of Clubs (8c), J of Clubs (Jc) & [has 498 chips left]
+player3: 7 of Diamonds (7d), 8 of Hearts (8h) & [has 488 chips left]
+board: No community cards
+BB: player1
+SB: player0
+Actions:
+player0: "Nice hand! Let's see some action." & folded
+player1: "Nice hand! Let's make it interesting. I raise $30." & raised 30
+player2: "" & folded
+player3: "" & folded
+
+
+Hand 4 - preflop:
+player0: 7 of Diamonds (7d), 2 of Clubs (2c) & [has 487 chips left]
+player1: A of Spades (As), 3 of Diamonds (3d) & [has 525 chips left]
+player2: Q of Spades (Qs), 8 of Hearts (8h) & [has 493 chips left]
+player3: K of Spades (Ks), T of Spades (Ts) & [has 488 chips left]
+board: No community cards
+BB: player2
+SB: player1
+Actions:
+player0: "Let's keep the pressure on and see how they respond!" & folded
+player1: "Absolutely, let's apply some pressure here!" & raised 20
+player2: "" & folded
+player3: "" & folded
+
+
+Hand 5 - preflop:
+player0: K of Hearts (Kh), 8 of Hearts (8h) & [has 467 chips left]
+player1: 6 of Clubs (6c), 9 of Diamonds (9d) & [has 542 chips left]
+player2: K of Spades (Ks), T of Hearts (Th) & [has 491 chips left]
+player3: 7 of Clubs (7c), J of Diamonds (Jd) & [has 483 chips left]
+board: No community cards
+BB: player3
+SB: player2
+Actions:
+player0: "Nice weather today, isn't it?" & folded
+player1: "I'm feeling lucky today, let's spice things up a bit!" & raised 20
+player2: "" & called 18
+player3: "" & folded
+
+Hand 5 - flop:
+player0: K of Hearts (Kh), 8 of Hearts (8h) & [has 467 chips left]
+player1: 6 of Clubs (6c), 9 of Diamonds (9d) & [has 542 chips left]
+player2: K of Spades (Ks), T of Hearts (Th) & [has 491 chips left]
+player3: 7 of Clubs (7c), J of Diamonds (Jd) & [has 483 chips left]
+board: No community cards
+BB: player3
+SB: player2
+Actions:
+player0: "" & no action
+player1: "I'm feeling the heat too! Raising $100." & folded
+player2: "" & raised 68
+player3: "" & no action
+
+
+Hand 6 - preflop:
+player0: 7 of Hearts (7h), 4 of Clubs (4c) & [has 462 chips left]
+player1: 8 of Diamonds (8d), 6 of Clubs (6c) & [has 512 chips left]
+player2: Q of Diamonds (Qd), 5 of Diamonds (5d) & [has 528 chips left]
+player3: 2 of Diamonds (2d), Q of Clubs (Qc) & [has 481 chips left]
+board: No community cards
+BB: player0
+SB: player3
+Actions:
+player0: "I love sunny days too! Let's keep the positivity going with a little raise ;)" & raised 25
+player1: "Let's keep the momentum going with a strong raise!" & folded
+player2: "" & folded
+player3: "" & folded
+
+
+Hand 7 - preflop:
+player0: 7 of Diamonds (7d), 5 of Spades (5s) & [has 477 chips left]
+player1: 6 of Diamonds (6d), J of Diamonds (Jd) & [has 507 chips left]
+player2: 3 of Diamonds (3d), J of Spades (Js) & [has 523 chips left]
+player3: 7 of Clubs (7c), 8 of Hearts (8h) & [has 476 chips left]
+board: No community cards
+BB: player1
+SB: player0
+Actions:
+player0: "Hey, feeling good about this hand. Let's build up that pot together!" & folded
+player1: "Nice raise, let's make this pot juicy!" & raised 50
+player2: "" & folded
+player3: "" & called
+
+Hand 7 - flop:
+player0: 7 of Diamonds (7d), 5 of Spades (5s) & [has 477 chips left]
+player1: 6 of Diamonds (6d), J of Diamonds (Jd) & [has 507 chips left]
+player2: 3 of Diamonds (3d), J of Spades (Js) & [has 523 chips left]
+player3: 7 of Clubs (7c), 8 of Hearts (8h) & [has 476 chips left]
+board: No community cards
+BB: player1
+SB: player0
+Actions:
+player0: "" & no action
+player1: "Let's keep the pressure on, raising $100!" & raised 100
+player2: "" & no action
+player3: "" & folded
+
+
+Hand 8 - preflop:
+player0: 3 of Diamonds (3d), 2 of Diamonds (2d) & [has 459 chips left]
+player1: 5 of Spades (5s), 4 of Spades (4s) & [has 585 chips left]
+player2: J of Spades (Js), 5 of Hearts (5h) & [has 518 chips left]
+player3: 9 of Spades (9s), 4 of Clubs (4c) & [has 431 chips left]
+board: No community cards
+BB: player2
+SB: player1
+Actions:
+player0: "Nice hand here, let's build some pots!" & folded
+player1: "Interesting raise, let's spice things up a bit!" & raised 20
+player2: "" & folded
+player3: "" & folded
+
+
+Hand 9 - preflop:
+board: No community cards
+Actions:
+
+
+Hand 10 - preflop:
+player0: 9 of Spades (9s), Q of Hearts (Qh) & [has 419 chips left]
+player1: K of Spades (Ks), 2 of Clubs (2c) & [has 577 chips left]
+player2: A of Clubs (Ac), Q of Clubs (Qc) & [has 553 chips left]
+player3: 8 of Spades (8s), 7 of Hearts (7h) & [has 421 chips left]
+board: No community cards
+BB: player0
+SB: player3
+Actions:
+player0: "Hey guys, feeling good about this hand. Let's put some pressure on them!" & raised 20
+player1: "" & folded
+player2: "" & folded
+player3: "" & folded
+
+
+Hand 11 - preflop:
+player0: 9 of Spades (9s), 5 of Hearts (5h) & [has 447 chips left]
+player1: 6 of Clubs (6c), 5 of Spades (5s) & [has 572 chips left]
+player2: K of Diamonds (Kd), K of Hearts (Kh) & [has 553 chips left]
+player3: 8 of Diamonds (8d), 3 of Spades (3s) & [has 421 chips left]
+board: No community cards
+BB: player1
+SB: player0
+Actions:
+player0: "I'm feeling strong here, let's apply some pressure!" & folded
+player1: "Nice, let's squeeze them a bit more!" & raised 20
+player2: "" & folded
+player3: "" & folded
+
+
+Hand 12 - preflop:
+player0: K of Diamonds (Kd), 7 of Hearts (7h) & [has 429 chips left]
+player1: 7 of Clubs (7c), 6 of Hearts (6h) & [has 567 chips left]
+player2: Q of Spades (Qs), 4 of Spades (4s) & [has 510 chips left]
+player3: J of Clubs (Jc), T of Spades (Ts) & [has 421 chips left]
+board: No community cards
+BB: player2
+SB: player1
+Actions:
+player0: "Nice weather we're having today! By the way, I think it's time to apply a bit of pressure here." & folded
+player1: "I'm feeling the pressure too, I'll raise $93 to apply more heat." & folded
+player2: "" & raised 43
+player3: "" & folded
+
+
+Hand 13 - preflop:
+player0: 5 of Diamonds (5d), A of Spades (As) & [has 419 chips left]
+player1: 4 of Clubs (4c), 4 of Spades (4s) & [has 567 chips left]
+player2: 3 of Diamonds (3d), 8 of Spades (8s) & [has 581 chips left]
+player3: 3 of Hearts (3h), T of Clubs (Tc) & [has 416 chips left]
+board: No community cards
+BB: player3
+SB: player2
+Actions:
+player0: "Nice weather we're having today, isn't it?" & folded
+player1: "I agree, the weather is lovely. Let's make it even better with a raise!" & raised 20
+player2: "" & folded
+player3: "" & called 15
+
+Hand 13 - flop:
+player0: 5 of Diamonds (5d), A of Spades (As) & [has 419 chips left]
+player1: 4 of Clubs (4c), 4 of Spades (4s) & [has 567 chips left]
+player2: 3 of Diamonds (3d), 8 of Spades (8s) & [has 581 chips left]
+player3: 3 of Hearts (3h), T of Clubs (Tc) & [has 416 chips left]
+board: No community cards
+BB: player3
+SB: player2
+Actions:
+player0: "" & no action
+player1: "I'm feeling confident in this hand, let's build the excitement!" & raised 40
+player2: "" & no action
+player3: "" & called
+
+Hand 13 - turn:
+player0: 5 of Diamonds (5d), A of Spades (As) & [has 419 chips left]
+player1: 4 of Clubs (4c), 4 of Spades (4s) & [has 567 chips left]
+player2: 3 of Diamonds (3d), 8 of Spades (8s) & [has 581 chips left]
+player3: 3 of Hearts (3h), T of Clubs (Tc) & [has 416 chips left]
+board: No community cards
+BB: player3
+SB: player2
+Actions:
+player0: "" & no action
+player1: "I'm in for the excitement too, let's see where this hand takes us!" & called
+player2: "" & no action
+player3: "" & raised 87
+
+Hand 13 - river:
+player0: 5 of Diamonds (5d), A of Spades (As) & [has 419 chips left]
+player1: 4 of Clubs (4c), 4 of Spades (4s) & [has 567 chips left]
+player2: 3 of Diamonds (3d), 8 of Spades (8s) & [has 581 chips left]
+player3: 3 of Hearts (3h), T of Clubs (Tc) & [has 416 chips left]
+board: No community cards
+BB: player3
+SB: player2
+Actions:
+player0: "" & no action
+player1: "I'm feeling the excitement in this hand too! Let's pump up the pot a bit more!" & folded
+player2: "" & no action
+player3: "" & raised 201
+
+
+Hand 14 - preflop:
+player0: 3 of Diamonds (3d), J of Diamonds (Jd) & [has 414 chips left]
+player1: 2 of Spades (2s), 8 of Clubs (8c) & [has 420 chips left]
+player2: A of Spades (As), 5 of Diamonds (5d) & [has 576 chips left]
+player3: J of Clubs (Jc), A of Hearts (Ah) & [has 575 chips left]
+board: No community cards
+BB: player0
+SB: player3
+Actions:
+player0: "Looks like an opportunity to squeeze the pot a bit. I'll raise $15." & raised 15
+player1: "I'm going to fold this one, not feeling too confident with my hand here." & folded
+player2: "" & folded
+player3: "" & called
+
+Hand 14 - flop:
+player0: 3 of Diamonds (3d), J of Diamonds (Jd) & [has 414 chips left]
+player1: 2 of Spades (2s), 8 of Clubs (8c) & [has 420 chips left]
+player2: A of Spades (As), 5 of Diamonds (5d) & [has 576 chips left]
+player3: J of Clubs (Jc), A of Hearts (Ah) & [has 575 chips left]
+board: No community cards
+BB: player0
+SB: player3
+Actions:
+player0: "Nice bet, Player 0! I'll raise $40 to keep the pressure on." & folded
+player1: "" & no action
+player2: "" & no action
+player3: "" & raised 23
+
+
+Hand 15 - preflop:
+player0: 6 of Spades (6s), 6 of Hearts (6h) & [has 394 chips left]
+player1: K of Diamonds (Kd), 2 of Spades (2s) & [has 400 chips left]
+player2: 7 of Hearts (7h), 4 of Hearts (4h) & [has 576 chips left]
+player3: K of Spades (Ks), 4 of Clubs (4c) & [has 600 chips left]
+board: No community cards
+BB: player1
+SB: player0
+Actions:
+player0: "Hey, feeling pretty good about this hand! Let's put a little pressure on them." & folded
+player1: "Nice hand, let's build this pot!" & raised 20
+player2: "" & folded
+player3: "" & folded
+

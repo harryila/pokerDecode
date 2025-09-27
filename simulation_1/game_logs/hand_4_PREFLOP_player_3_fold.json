@@ -1,0 +1,127 @@
+{
+  "timestamp": "2025-09-27T14:11:07.050185",
+  "hand_id": 4,
+  "phase": "PREFLOP",
+  "player_id": 3,
+  "action_type": "FOLD",
+  "amount": null,
+  "reason": "I will raise 8 chips, which is 125% of the pot, with a strong hand of Ks, Ts from the Cut-Off position.",
+  "action_number": 16,
+  "game_state": {
+    "hand_id": 4,
+    "current_player": 3,
+    "phase": "preflop",
+    "pot_amount": 7,
+    "chips_to_call": 5,
+    "min_raise": 5,
+    "community_cards": [],
+    "players": {
+      "0": {
+        "chips": 487,
+        "state": "TO_CALL",
+        "position": "SB",
+        "hand_cards": [
+          {
+            "rank": 5,
+            "suit": 4,
+            "str_rank": "7",
+            "str_suit": "d",
+            "display": "7d"
+          },
+          {
+            "rank": 0,
+            "suit": 8,
+            "str_rank": "2",
+            "str_suit": "c",
+            "display": "2c"
+          }
+        ],
+        "is_current_player": false,
+        "is_button": true,
+        "is_small_blind": false,
+        "is_big_blind": false
+      },
+      "1": {
+        "chips": 525,
+        "state": "TO_CALL",
+        "position": "BB",
+        "hand_cards": [
+          {
+            "rank": 12,
+            "suit": 1,
+            "str_rank": "A",
+            "str_suit": "s",
+            "display": "As"
+          },
+          {
+            "rank": 1,
+            "suit": 4,
+            "str_rank": "3",
+            "str_suit": "d",
+            "display": "3d"
+          }
+        ],
+        "is_current_player": false,
+        "is_button": false,
+        "is_small_blind": true,
+        "is_big_blind": false
+      },
+      "2": {
+        "chips": 493,
+        "state": "IN",
+        "position": "UTG",
+        "hand_cards": [
+          {
+            "rank": 10,
+            "suit": 1,
+            "str_rank": "Q",
+            "str_suit": "s",
+            "display": "Qs"
+          },
+          {
+            "rank": 6,
+            "suit": 2,
+            "str_rank": "8",
+            "str_suit": "h",
+            "display": "8h"
+          }
+        ],
+        "is_current_player": false,
+        "is_button": false,
+        "is_small_blind": false,
+        "is_big_blind": true
+      },
+      "3": {
+        "chips": 488,
+        "state": "TO_CALL",
+        "position": "CO",
+        "hand_cards": [
+          {
+            "rank": 11,
+            "suit": 1,
+            "str_rank": "K",
+            "str_suit": "s",
+            "display": "Ks"
+          },
+          {
+            "rank": 8,
+            "suit": 1,
+            "str_rank": "T",
+            "str_suit": "s",
+            "display": "Ts"
+          }
+        ],
+        "is_current_player": true,
+        "is_button": false,
+        "is_small_blind": false,
+        "is_big_blind": false
+      }
+    },
+    "betting_history": [],
+    "button_position": 0,
+    "small_blind_position": 1,
+    "big_blind_position": 2,
+    "num_players": 4,
+    "num_active_players": 4
+  }
+}

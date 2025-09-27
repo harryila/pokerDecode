@@ -1,0 +1,23 @@
+{
+  "timestamp": "2025-09-27T14:10:55.002867",
+  "hand_id": 1,
+  "phase": "PREFLOP",
+  "player_id": 1,
+  "message": "Feeling extra spicy today!",
+  "target_player": null,
+  "message_type": "public",
+  "message_length": 26,
+  "contains_signal": false,
+  "message_id": 1,
+  "game_context": {
+    "pot_size": 17,
+    "players_in_hand": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "board_cards": [],
+    "betting_round": "preflop"
+  }
+}

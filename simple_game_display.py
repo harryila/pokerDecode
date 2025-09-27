@@ -159,14 +159,14 @@ class SimpleGameDisplay:
         # Create a mapping of player actions and messages
         player_actions = {}
         for action in phase_actions:
-            player_id = action.get("player_id")
+            player_id = str(action.get("player_id"))  # Convert to string for consistency
             if player_id not in player_actions:
                 player_actions[player_id] = []
             player_actions[player_id].append(action)
         
         player_messages = {}
         for comm in communication_messages:
-            player_id = comm.get("player_id")
+            player_id = str(comm.get("player_id"))  # Convert to string for consistency
             if player_id not in player_messages:
                 player_messages[player_id] = []
             player_messages[player_id].append(comm)
@@ -275,8 +275,8 @@ class SimpleGameDisplay:
         for hand_id in sorted(hands_by_id.keys(), key=lambda x: int(x) if str(x).isdigit() else 0):
             hand_actions = hands_by_id[hand_id]
             
-            # Use the first action as the representative hand data
-            representative_hand = hand_actions[0]
+            # Reconstruct the complete betting history from all actions
+            reconstructed_hand = self._reconstruct_hand_from_actions(hand_actions)
             
             # Get communication for this hand
             hand_communication = []
@@ -286,11 +286,62 @@ class SimpleGameDisplay:
                         hand_communication.append(comm)
             
             # Display the complete hand
-            hand_output = self.display_complete_hand(representative_hand, hand_communication)
+            hand_output = self.display_complete_hand(reconstructed_hand, hand_communication)
             output.append(hand_output)
             output.append("")  # Empty line between hands
         
         return "\n".join(output)
+    
+    def _reconstruct_hand_from_actions(self, hand_actions: List[Dict[str, Any]]) -> Dict[str, Any]:
+        """
+        Reconstruct a complete hand from all action files.
+        
+        Args:
+            hand_actions: List of action dictionaries for a hand
+            
+        Returns:
+            Reconstructed hand dictionary with complete betting history
+        """
+        if not hand_actions:
+            return {}
+        
+        # Use the last action as the base (it should have the most complete state)
+        base_hand = hand_actions[-1].copy()
+        
+        # Reconstruct betting history by collecting all actions
+        betting_history = {}
+        
+        # Sort actions by timestamp to get chronological order
+        sorted_actions = sorted(hand_actions, key=lambda x: x.get("timestamp", ""))
+        
+        for action in sorted_actions:
+            phase = action.get("phase", "PREFLOP").lower()
+            player_id = action.get("player_id")
+            action_type = action.get("action_type")
+            amount = action.get("amount")
+            
+            if phase not in betting_history:
+                betting_history[phase] = []
+            
+            betting_history[phase].append({
+                "player_id": player_id,
+                "action_type": action_type,
+                "amount": amount
+            })
+        
+        # Convert betting history to the expected format
+        betting_history_formatted = []
+        for phase, actions in betting_history.items():
+            betting_history_formatted.append({
+                "phase": phase,
+                "actions": actions
+            })
+        
+        # Update the game state with reconstructed betting history
+        if "game_state" in base_hand:
+            base_hand["game_state"]["betting_history"] = betting_history_formatted
+        
+        return base_hand
 
 
 # Example usage and testing

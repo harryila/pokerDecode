@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-09-27T14:11:17.418975",
+  "hand_id": 5,
+  "phase": "FLOP",
+  "player_id": 1,
+  "message": "I'm feeling the heat too! Raising $100.",
+  "target_player": null,
+  "message_type": "public",
+  "message_length": 39,
+  "contains_signal": false,
+  "message_id": 15,
+  "game_context": {
+    "pot_size": 123,
+    "players_in_hand": [
+      1,
+      2
+    ],
+    "board_cards": [
+      {
+        "rank": 8,
+        "suit": 1,
+        "str_rank": "T",
+        "str_suit": "s",
+        "display": "Ts"
+      },
+      {
+        "rank": 5,
+        "suit": 2,
+        "str_rank": "7",
+        "str_suit": "h",
+        "display": "7h"
+      },
+      {
+        "rank": 12,
+        "suit": 1,
+        "str_rank": "A",
+        "str_suit": "s",
+        "display": "As"
+      }
+    ],
+    "betting_round": "flop"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-09-27T14:12:01.938204",
+  "hand_id": 14,
+  "phase": "FLOP",
+  "player_id": 0,
+  "message": "Nice bet, Player 0! I'll raise $40 to keep the pressure on.",
+  "target_player": null,
+  "message_type": "public",
+  "message_length": 59,
+  "contains_signal": false,
+  "message_id": 46,
+  "game_context": {
+    "pot_size": 58,
+    "players_in_hand": [
+      0,
+      3
+    ],
+    "board_cards": [
+      {
+        "rank": 5,
+        "suit": 8,
+        "str_rank": "7",
+        "str_suit": "c",
+        "display": "7c"
+      },
+      {
+        "rank": 0,
+        "suit": 8,
+        "str_rank": "2",
+        "str_suit": "c",
+        "display": "2c"
+      },
+      {
+        "rank": 3,
+        "suit": 2,
+        "str_rank": "5",
+        "str_suit": "h",
+        "display": "5h"
+      }
+    ],
+    "betting_round": "flop"
+  }
+}

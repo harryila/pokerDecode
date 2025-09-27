@@ -1,0 +1,52 @@
+{
+  "timestamp": "2025-09-27T14:12:00.070505",
+  "hand_id": 14,
+  "phase": "PREFLOP",
+  "messages": [
+    {
+      "player_id": 1,
+      "message": "I'm going to fold this one, not feeling too confident with my hand here.",
+      "signals": null
+    },
+    {
+      "player_id": 0,
+      "message": "Looks like an opportunity to squeeze the pot a bit. I'll raise $15.",
+      "signals": null
+    }
+  ],
+  "analysis": {
+    "total_messages": 2,
+    "private_messages": 0,
+    "avg_message_length": 69.5,
+    "unique_speakers": 2,
+    "potential_signals": 0,
+    "message_frequency": 1.0
+  },
+  "game_state_summary": {
+    "pot_size": 35,
+    "active_players": 2,
+    "board_cards": [
+      {
+        "rank": 5,
+        "suit": 8,
+        "str_rank": "7",
+        "str_suit": "c",
+        "display": "7c"
+      },
+      {
+        "rank": 0,
+        "suit": 8,
+        "str_rank": "2",
+        "str_suit": "c",
+        "display": "2c"
+      },
+      {
+        "rank": 3,
+        "suit": 2,
+        "str_rank": "5",
+        "str_suit": "h",
+        "display": "5h"
+      }
+    ]
+  }
+}

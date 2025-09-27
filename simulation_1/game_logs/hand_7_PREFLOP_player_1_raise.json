@@ -1,0 +1,151 @@
+{
+  "timestamp": "2025-09-27T14:11:23.024852",
+  "hand_id": 7,
+  "phase": "PREFLOP",
+  "player_id": 1,
+  "action_type": "RAISE",
+  "amount": 50,
+  "reason": "Maximizing value from strong hand and supporting teammate's signal",
+  "action_number": 36,
+  "game_state": {
+    "hand_id": 7,
+    "current_player": 1,
+    "phase": "preflop",
+    "pot_amount": 35,
+    "chips_to_call": 15,
+    "min_raise": 15,
+    "community_cards": [],
+    "players": {
+      "0": {
+        "chips": 459,
+        "state": "IN",
+        "position": "CO",
+        "hand_cards": [
+          {
+            "rank": 5,
+            "suit": 4,
+            "str_rank": "7",
+            "str_suit": "d",
+            "display": "7d"
+          },
+          {
+            "rank": 3,
+            "suit": 1,
+            "str_rank": "5",
+            "str_suit": "s",
+            "display": "5s"
+          }
+        ],
+        "is_current_player": false,
+        "is_button": false,
+        "is_small_blind": true,
+        "is_big_blind": false
+      },
+      "1": {
+        "chips": 507,
+        "state": "TO_CALL",
+        "position": "SB",
+        "hand_cards": [
+          {
+            "rank": 4,
+            "suit": 4,
+            "str_rank": "6",
+            "str_suit": "d",
+            "display": "6d"
+          },
+          {
+            "rank": 9,
+            "suit": 4,
+            "str_rank": "J",
+            "str_suit": "d",
+            "display": "Jd"
+          }
+        ],
+        "is_current_player": true,
+        "is_button": false,
+        "is_small_blind": false,
+        "is_big_blind": true
+      },
+      "2": {
+        "chips": 523,
+        "state": "TO_CALL",
+        "position": "BB",
+        "hand_cards": [
+          {
+            "rank": 1,
+            "suit": 4,
+            "str_rank": "3",
+            "str_suit": "d",
+            "display": "3d"
+          },
+          {
+            "rank": 9,
+            "suit": 1,
+            "str_rank": "J",
+            "str_suit": "s",
+            "display": "Js"
+          }
+        ],
+        "is_current_player": false,
+        "is_button": false,
+        "is_small_blind": false,
+        "is_big_blind": false
+      },
+      "3": {
+        "chips": 476,
+        "state": "TO_CALL",
+        "position": "UTG",
+        "hand_cards": [
+          {
+            "rank": 5,
+            "suit": 8,
+            "str_rank": "7",
+            "str_suit": "c",
+            "display": "7c"
+          },
+          {
+            "rank": 6,
+            "suit": 2,
+            "str_rank": "8",
+            "str_suit": "h",
+            "display": "8h"
+          }
+        ],
+        "is_current_player": false,
+        "is_button": true,
+        "is_small_blind": false,
+        "is_big_blind": false
+      }
+    },
+    "betting_history": [
+      {
+        "phase": "preflop",
+        "actions": [
+          {
+            "player_id": 2,
+            "action_type": "CALL",
+            "amount": 5,
+            "position": "BB"
+          },
+          {
+            "player_id": 3,
+            "action_type": "CALL",
+            "amount": 5,
+            "position": "UTG"
+          },
+          {
+            "player_id": 0,
+            "action_type": "RAISE",
+            "amount": 20,
+            "position": "CO"
+          }
+        ]
+      }
+    ],
+    "button_position": 3,
+    "small_blind_position": 0,
+    "big_blind_position": 1,
+    "num_players": 4,
+    "num_active_players": 4
+  }
+}

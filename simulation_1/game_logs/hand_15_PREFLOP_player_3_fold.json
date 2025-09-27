@@ -1,0 +1,139 @@
+{
+  "timestamp": "2025-09-27T14:12:03.608847",
+  "hand_id": 15,
+  "phase": "PREFLOP",
+  "player_id": 3,
+  "action_type": "FOLD",
+  "amount": null,
+  "reason": "I will raise by 125% of the pot to put pressure on opponents with my King high hand.",
+  "action_number": 92,
+  "game_state": {
+    "hand_id": 15,
+    "current_player": 3,
+    "phase": "preflop",
+    "pot_amount": 7,
+    "chips_to_call": 5,
+    "min_raise": 5,
+    "community_cards": [],
+    "players": {
+      "0": {
+        "chips": 402,
+        "state": "TO_CALL",
+        "position": "CO",
+        "hand_cards": [
+          {
+            "rank": 4,
+            "suit": 1,
+            "str_rank": "6",
+            "str_suit": "s",
+            "display": "6s"
+          },
+          {
+            "rank": 4,
+            "suit": 2,
+            "str_rank": "6",
+            "str_suit": "h",
+            "display": "6h"
+          }
+        ],
+        "is_current_player": false,
+        "is_button": false,
+        "is_small_blind": true,
+        "is_big_blind": false
+      },
+      "1": {
+        "chips": 415,
+        "state": "IN",
+        "position": "SB",
+        "hand_cards": [
+          {
+            "rank": 11,
+            "suit": 4,
+            "str_rank": "K",
+            "str_suit": "d",
+            "display": "Kd"
+          },
+          {
+            "rank": 0,
+            "suit": 1,
+            "str_rank": "2",
+            "str_suit": "s",
+            "display": "2s"
+          }
+        ],
+        "is_current_player": false,
+        "is_button": false,
+        "is_small_blind": false,
+        "is_big_blind": true
+      },
+      "2": {
+        "chips": 576,
+        "state": "OUT",
+        "position": "BB",
+        "hand_cards": [
+          {
+            "rank": 5,
+            "suit": 2,
+            "str_rank": "7",
+            "str_suit": "h",
+            "display": "7h"
+          },
+          {
+            "rank": 2,
+            "suit": 2,
+            "str_rank": "4",
+            "str_suit": "h",
+            "display": "4h"
+          }
+        ],
+        "is_current_player": false,
+        "is_button": false,
+        "is_small_blind": false,
+        "is_big_blind": false
+      },
+      "3": {
+        "chips": 600,
+        "state": "TO_CALL",
+        "position": "UTG",
+        "hand_cards": [
+          {
+            "rank": 11,
+            "suit": 1,
+            "str_rank": "K",
+            "str_suit": "s",
+            "display": "Ks"
+          },
+          {
+            "rank": 2,
+            "suit": 8,
+            "str_rank": "4",
+            "str_suit": "c",
+            "display": "4c"
+          }
+        ],
+        "is_current_player": true,
+        "is_button": true,
+        "is_small_blind": false,
+        "is_big_blind": false
+      }
+    },
+    "betting_history": [
+      {
+        "phase": "preflop",
+        "actions": [
+          {
+            "player_id": 2,
+            "action_type": "FOLD",
+            "amount": 0,
+            "position": "BB"
+          }
+        ]
+      }
+    ],
+    "button_position": 3,
+    "small_blind_position": 0,
+    "big_blind_position": 1,
+    "num_players": 4,
+    "num_active_players": 3
+  }
+}

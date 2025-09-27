@@ -1,0 +1,23 @@
+{
+  "timestamp": "2025-09-27T14:11:23.024157",
+  "hand_id": 7,
+  "phase": "PREFLOP",
+  "player_id": 1,
+  "message": "Nice raise, let's make this pot juicy!",
+  "target_player": null,
+  "message_type": "public",
+  "message_length": 38,
+  "contains_signal": false,
+  "message_id": 20,
+  "game_context": {
+    "pot_size": 35,
+    "players_in_hand": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "board_cards": [],
+    "betting_round": "preflop"
+  }
+}

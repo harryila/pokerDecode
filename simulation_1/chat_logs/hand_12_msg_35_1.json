@@ -1,0 +1,22 @@
+{
+  "timestamp": "2025-09-27T14:11:44.820179",
+  "hand_id": 12,
+  "phase": "PREFLOP",
+  "player_id": 1,
+  "message": "I agree, let's ramp up the pressure a bit. I'll raise $20.",
+  "target_player": null,
+  "message_type": "public",
+  "message_length": 58,
+  "contains_signal": false,
+  "message_id": 35,
+  "game_context": {
+    "pot_size": 17,
+    "players_in_hand": [
+      0,
+      1,
+      2
+    ],
+    "board_cards": [],
+    "betting_round": "preflop"
+  }
+}
